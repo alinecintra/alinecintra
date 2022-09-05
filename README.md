@@ -1,6 +1,5 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aline Cintra!</h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alinecintra&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alinecintra&show_icons=true&theme=omni)
 
 ##
