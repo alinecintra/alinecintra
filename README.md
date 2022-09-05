@@ -1,11 +1,12 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aline Cintra!</h1>
 
-<!-- GITHUB STATUS -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alinecintra&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gus-caetano&layout=compact&langs_count=10&theme=omni"/>
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinecintra&theme=midnight-purple" />
+</p>
 
-</div>
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=alinecintra&show_icons=true&theme=midnight-purple"/>
+</p>
 
 <div align="center">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
